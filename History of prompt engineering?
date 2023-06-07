@@ -2,24 +2,39 @@ Q: What is the history of prompt engineering?
 
 A: ChatGPT :)
 
-Prompt engineering refers to the practice of crafting effective prompts to interact with language models like ChatGPT. While prompt engineering itself is not a historical concept, it has become increasingly important in the context of modern language models.
+Prompt engineering refers to the practice of crafting effective prompts to interact with language models like ChatGPT. 
+While prompt engineering itself is not a historical concept, it has become increasingly important in the context of modern language models.
 
-Language models have a long history, dating back several decades. Early approaches, such as n-grams and rule-based systems, attempted to generate coherent text based on statistical patterns or predefined rules. However, these methods had limitations in terms of generating contextually relevant and coherent responses.
+Language models have a long history, dating back several decades. Early approaches, such as n-grams and rule-based systems, 
+attempted to generate coherent text based on statistical patterns or predefined rules. However, these methods had limitations 
+in terms of generating contextually relevant and coherent responses.
 
-In recent years, with the advent of deep learning and neural networks, language models have made significant advancements. Models like GPT (Generative Pre-trained Transformer) have demonstrated remarkable language generation capabilities, leveraging large-scale training on diverse datasets.
+In recent years, with the advent of deep learning and neural networks, language models have made significant advancements. 
+Models like GPT (Generative Pre-trained Transformer) have demonstrated remarkable language generation capabilities, 
+leveraging large-scale training on diverse datasets.
 
-Prompt engineering gained attention as researchers and developers realized the impact of initial prompts on the behavior of these language models. The choice of prompt can significantly influence the output, making it important to carefully design and iterate on prompts to achieve desired results.
+Prompt engineering gained attention as researchers and developers realized the impact of initial prompts on the behavior of 
+these language models. The choice of prompt can significantly influence the output, making it important to carefully design and 
+iterate on prompts to achieve desired results.
 
 The concept of prompt engineering encompasses various techniques, including:
 
-Instructional Prompts: These prompts provide explicit instructions to guide the model's behavior. By specifying the desired format or tone, developers can elicit responses that align with particular requirements.
+Instructional Prompts: These prompts provide explicit instructions to guide the model's behavior. By specifying the 
+desired format or tone, developers can elicit responses that align with particular requirements.
 
-Conditioning: Language models can be conditioned on specific information to generate more contextually relevant responses. Conditioning can involve providing relevant facts, asking questions, or specifying constraints to guide the model's output.
+Conditioning: Language models can be conditioned on specific information to generate more contextually relevant responses. 
+Conditioning can involve providing relevant facts, asking questions, or specifying constraints to guide the model's output.
 
-System Messages: Incorporating system-level messages within a conversation can help set the behavior of the model. These messages can provide additional context or serve as virtual assistants to guide the interaction.
+System Messages: Incorporating system-level messages within a conversation can help set the behavior of the model. 
+These messages can provide additional context or serve as virtual assistants to guide the interaction.
 
-Iterative Refinement: Prompt engineering often involves an iterative process of refining prompts and examining the model's output. Developers experiment with different prompt variations and adjust them based on the generated responses to achieve the desired outcomes.
+Iterative Refinement: Prompt engineering often involves an iterative process of refining prompts and examining the model's output. 
+Developers experiment with different prompt variations and adjust them based on the generated responses to achieve the desired outcomes.
 
-Prompt engineering has gained prominence due to concerns related to the responsible use of language models. It allows developers to mitigate issues such as biased or harmful outputs, promote safer AI interactions, and tailor the model's behavior to specific applications or domains.
+Prompt engineering has gained prominence due to concerns related to the responsible use of language models. It allows developers 
+to mitigate issues such as biased or harmful outputs, promote safer AI interactions, and tailor the model's behavior to specific 
+applications or domains.
 
-It's worth noting that prompt engineering is an ongoing field of research and development, with new techniques and best practices emerging over time. The objective is to harness the power of language models effectively and responsibly, while ensuring they align with human values and societal norms.
+It's worth noting that prompt engineering is an ongoing field of research and development, with new techniques and best practices 
+emerging over time. The objective is to harness the power of language models effectively and responsibly, while ensuring they align 
+with human values and societal norms.
