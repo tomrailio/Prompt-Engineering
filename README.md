@@ -1,2 +1,3 @@
 # Prompt-Engineering
-Prompts for ChatGPT and MidJourney
+
+Prompts for ChatGPT, MidJourney and alike.
