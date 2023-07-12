@@ -1,0 +1,13 @@
+Overview
+
+Prompt engineering is kind of like alchemy. There's no clear way to predict what will work best. 
+It's all about experimenting until you find the right prompt. gpt-prompt-engineer is a tool that 
+takes this experimentation to a whole new level.
+
+Simply input a description of your task and some test cases, and the system will generate, 
+test, and rank a multitude of prompts to find the ones that perform the best.
+
+https://github.com/mshumer/gpt-prompt-engineer?utm_source=tldrai
+
+Project Link: https://github.com/mshumer/gpt-prompt-engineer
+
