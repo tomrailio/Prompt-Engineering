@@ -1,3 +1,3 @@
 # Prompt-Engineering
 
-Prompts for ChatGPT, MidJourney and alike.
+Natural language prompts and technical prompts for ChatGPT, MidJourney and alike.
