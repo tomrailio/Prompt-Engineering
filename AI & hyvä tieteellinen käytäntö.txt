@@ -117,6 +117,16 @@ käyttöön: https://www.aalto.fi/fi/palvelut/tuotteistettu-tekoaly-ai-ja-openai
 
 Aalto-yliopisto on myös luonut ohjeistuksen tekoälyn käytöstä opetuksessa ja oppimisessa.
 
-Tekijyyden ja tilivelvollisuuden osalta lähestymistapamme on linjassa merkittävien kustantajien kanssa. Esimerkiksi Nature, Science ja Elsevier ovat tehneet linjauksensa tästä aiheesta.
+Tekijyyden ja tilivelvollisuuden osalta lähestymistapamme on linjassa merkittävien 
+kustantajien kanssa. Esimerkiksi Nature, Science ja Elsevier ovat tehneet linjauksensa 
+tästä aiheesta.
 
-Hyvä tieteellinen käytäntö generatiivisia tekoälyteknologioita käytettäessä on vain yksi osa laajempaa keskustelua tekoälyn etiikasta. Aiheesta saa kattavia yleiskuvia UNESCO:n suosituksesta tekoälyn etiikasta: Recommendation on the Ethics of Artificial Intelligence sekä OECD:n tekoälyperiaatteista: OECD AI Principles. Euroopan unioni ja Euroopan parlamentti ovat parhaillaan luomassa sääntelyä tekoälyn käytöstä, ja ne tarjoavat myös johdatuksen yleiskäyttöiseen tekoälyyn (general purpose AI).
+Hyvä tieteellinen käytäntö generatiivisia tekoälyteknologioita käytettäessä on vain yksi 
+
+osa laajempaa keskustelua tekoälyn etiikasta. Aiheesta saa kattavia yleiskuvia UNESCO:n 
+suosituksesta tekoälyn etiikasta: Recommendation on the Ethics of Artificial Intelligence 
+sekä OECD:n tekoälyperiaatteista: OECD AI Principles. Euroopan unioni ja Euroopan parlamentti 
+ovat parhaillaan luomassa sääntelyä tekoälyn käytöstä, ja ne tarjoavat myös johdatuksen 
+yleiskäyttöiseen tekoälyyn (general purpose AI).
+
+
