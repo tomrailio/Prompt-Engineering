@@ -1,0 +1,122 @@
+https://www.aalto.fi/fi/palvelut/tekoalyn-vastuullinen-kaytto-tutkimusprosessin-aikana?utm_campaign=unspecified&utm_content=unspecified&utm_medium=email&utm_source=apsis-anp-3
+ 
+Tekoälyn vastuullinen käyttö tutkimusprosessin aikana.
+
+Uudet tekoälytyökalut (AI) muuttavat asiantuntijatyötä. Miten niitä tulisi käyttää tutkimuksessa 
+apuna vastuullisesti? Emme keskity tällä sivulla niinkään siihen, ovatko tutkimuksen lopputulokset 
+eettisiä, vaan tutkimuksen tekemisen vastuullisuuteen, hyvän tieteellisen käytännön periaatteiden 
+valossa. Näitä tutkimuseettisiä periaatteita ovat muun muassa tutkimuksen toistettavuus, 
+vastuunkanto tutkimustulosten oikeellisuudesta, toisten tutkijoiden tekemän työn tunnustaminen 
+ja kunnioittaminen, ja tiedon suojaus. Miten näitä periaatteita tulisi tulkita nyt kun uudet 
+tekoälytyökalut voivat tuottaa tekstiä ja kuvia, joita on vaikea erottaa ihmisen tuottamista?
+Tekoälyyn (AI, artificial intelligence) pohjautuvat työkalut, erityisesti suuriin kielimalleihin 
+pohjautuvat yleiskäyttöiset työkalut kuten ChatGPT  ja tekstisyötteestä kuvia luova DALL-E ovat 
+saavuttaneet nopeasti suosiota, ja myös Aalto-yliopisto tarjoaa apua niiden käyttöön. 
+Ne pystyvät tuottamaan tekstiä ja kuvia, joita on vaikea erottaa ihmisen tekemästä tekstistä 
+tai kuvista. Uusia työkaluja kannattaa rohkeasti käyttää myös tutkimuksessa, mutta on hyvä 
+pysähtyä hetkeksi pohtimaan, aiheutuuko niiden käytöstä jotain haasteita hyvälle tieteelliselle 
+käytännölle? Miten näitä työkaluja voisi käyttää vastuullisesti tutkimuksessa apuna?
+
+Tekoälytyökaluja on toki monenlaisia, niiden kirjo voi vaihdella oikolukijasta GPT-tyyppisten 
+työkalujen täyteen toiminnallisuuteen, mutta tässä viittaamme generatiivisen tekoälyn 
+(generative AI) teknologioihin, jotka perustuvat suuriin kielimalleihin 
+(large language models) ja kykenevät tuottamaan ihmisen kaltaista tekstiä, koodia tai taideteoksia. 
+
+Keskustelu "eettisestä tekoälystä" eli siitä, ovatko tekoälyjärjestelmien tulokset 
+eettisiä ja vastuullisia, on tärkeää, ja on olemassa paljon tutkimusta siitä, miten 
+voidaan varmistaa, että tekoälyjärjestelmän tuottamat tulokset ovat oikeudenmukaisia, 
+puolueettomia ja syrjimättömiä. Kuitenkin tässä esityksessä tarkastelemme aihetta 
+suppeammin selkeyden ja tiiviin esitystavan vuoksi. Kiinnitämme huomiota itse 
+tutkimusprosessiin ja katsomme asiaa tutkimusetiikan ja vastuullisen tutkimuksen 
+näkökulmasta, Tutkimuseettisen Neuvottelukunnan (TENK) suositusten mukaisesti: tulosten 
+toistettavuus, vastuu esitettyjen tulosten oikeellisuudesta, muiden tutkijoiden oikeuksien 
+kunnioittaminen ja tietosuoja. Miten näitä käsitteitä tulisi nyt tulkita?
+
+Tulkintoja hyvästä tieteellisestä käytännöstä
+Aihe kehittyy ajan myötä uusien tekoälytyökalujen myötä, mutta toistaiseksi Aalto-yliopiston 
+ohjeistus on seuraava:
+
+Tekoälyä ei voida pitää tieteellisen tekstin tekijänä (author), sillä se on väline, ja 
+tekijyys liittyy aina vastuuseen, jota tekoäly ei voi kattaa. Olet itse vastuussa 
+esittämiesi tulosten oikeellisuudesta ja sinun tulee kunnioittaa muiden tutkijoiden 
+oikeuksia viittaamalla heidän työhönsä asianmukaisesti. 
+Tekoälyn käyttö tutkimuksessa on avoimesti kuvattava, jotta muut voivat toistaa tuloksesi. 
+GDPR:n (yleinen tietosuoja-asetus) vaatimuksia on noudatettava, joten verkossa olevaan 
+tekoälytyökaluun ei saa syöttää henkilötietoja sisältäviä tutkimusaineistoja tai mitään 
+sellaisia henkilötietoja, jotka loukkaisivat tutkimuksen kohteena olevien henkilöiden oikeuksia.
+Suojele omaa julkaisematonta tutkimustasi äläkä lataa sitä verkossa olevaan järjestelmään, 
+varsinkin jos se on arkaluonteista.
+Huomioi myös, että tekoälyjärjestelmän tuottama tulos voi olla arkaluonteinen, ja sitä 
+tulee käsitellä huolella ja GDPR:n mukaisesti.
+Taiteellisessa työssä tekoäly on jälleen vain työkalu, eikä sille tule antaa tekijyyttä. 
+Taiteellista tuotetta luodessasi tuotoksen tekijöiden roolit on selitettävä avoimesti ja 
+yksityiskohtaisesti. Tekijänoikeuslainsäädäntöä on noudatettava, kun julkaiset jotain, joka 
+perustuu tekoälytyökalun tuottamaan lopputulokseen.
+Ei mitään uutta! Hyvän tieteellisen käytännön ja vastuullisen tieteen periaatteet pätevät 
+edelleen. 
+Toistettavuus: Mikäli olet käyttänyt tekoälyjärjestelmää, sinun tulee paljastaa tekniset 
+yksityiskohdat ja parametrit, jotta joku toinen voi tarkistaa tuloksesi omatoimisesti. 
+Verkossa olevat generatiiviset tekoälypalvelut (kuten eri versiot OpenAI ChatGPT:stä) 
+päivittyvät usein, mikä tekee täysin samanlaisten tulosten toistamisesta mahdotonta.
+
+Tilivelvollisuus: Olet vastuussa esittämiesi tulosten oikeellisuudesta. Nykyiset työkalut 
+saattavat joskus tuottaa järjettömiä tuloksia. Et voi välttää vastuuta sillä, että vierität 
+syyn virheellisistä tuloksista tekoälyn niskoille.
+
+Sinun tulee kunnioittaa muiden tekijänoikeuksia viittaamalla heidän tutkimukseensa 
+asianmukaisesti. ChatGPT:n tuottama lopputulos voi perustua jonkun toisen 
+tuloksiin – pystytkö jäljittämään alkuperäiset lähteet?
+
+GDPR:n noudattaminen on tärkeää - tässäkään ei ole mitään uutta. Älä syötä järjestelmään 
+luottamuksellisia tietoja tai henkilötietoja, ellet voi luottaa siihen, miten järjestelmä 
+niitä käsittelee. Tällä hetkellä (6/2023) verkossa olevat palvelut, kuten ChatGPT, eivät 
+ole GDPR-yhteensopivia. Niihin voi ladata vain julkisia tietoja. On olemassa paikallisia 
+palveluita, joihin henkilötietoja voi syöttää turvallisesti, eivätkä ne siirry verkkoon. 
+Lisätietoja löydät osoitteesta https://www.aalto.fi/fi/palvelut/tuotteistettu-tekoaly-ai-ja-openai-palvelut. 
+Jos saat järjestelmästä ulos henkilötietoja, olet vastuussa niiden asianmukaisesta 
+käsittelystä ja sinun pitää ilmoittaa kyseisille henkilöille asiasta.
+
+Suojele omia julkaisemattomia tuloksiasi. Syöttämällä tekstiä tai dataa julkaisemattomista 
+käsikirjoituksista tai rahoitushakemuksista verkkopohjaisiin tekoälyjärjestelmiin saatat 
+antaa luvan datan uudelleenkäyttöön. Julkaisematon työsi voi päätyä tulevien kielimallien 
+koulutukseen tai siirtyä kolmansille osapuolille (esim. ChatGPT:n muille käyttäjille) sinun 
+tietämättäsi. Tällöin sinun on mahdotonta jäljittää, minne julkaisematon tekstisi tai 
+datasi on mennyt ja miten niitä tullaan uudelleenkäyttämään.
+
+JOS KÄYTÄT CHATGPT:N KIRJOITTAMAA KOODIA, ET VOI TARKSITAA CHATGPT:N KÄYTTÄMIEN KOODINPÄTKIEN
+LISENSSEJÄ. !!!
+
+Lisenssiongelmien lisäksi hyvä idea on julkaista koodisi avoimen lähdekoodin 
+arkistossa, jotta kuka tahansa voi tarkistaa sen oikeellisuuden.
+
+Tekijänoikeudet ja tekijyys taiteessa 
+Taiteellisessa työssä tekoäly on vain työkalu eikä sille tule antaa tekijyyttä. 
+Taiteellista teosta luodessasi tekijöiden roolit on selitettävä avoimesti ja yksityiskohtaisesti.
+
+Tekijänoikeudella suojatun taiteen käyttö tekoälyjärjestelmän kouluttamiseen on 
+sallittua sekä Yhdysvalloissa että EU:ssa, kun noudatetaan sovellettavia 
+tekijänoikeuslainsäädännön poikkeussääntöjä. On selvää, että tekoälypohjaiset kuvia 
+tuottavat työkalut on koulutettu materiaalilla, joka oli alunperin tekijänoikeuksin 
+suojattu. Jos käytät tekoälypohjaista kuvatyökalua, sen antama tuotos saattaa sisältää 
+tekijänoikeuksin suojattua materiaalia. Sovellettavaa tekijänoikeuslainsäädäntöä on 
+noudatettava, kun julkaiset tämän tuotoksen tai jotain siihen perustuvaa.
+
+Se, onko sinulla tekijänoikeutta tuotokseesi, on toinen kysymys, ja esimerkiksi 
+Yhdysvaltain tekijänoikeustoimisto on todennut, että tekijänoikeus suojaa vain ihmisten 
+tekemiä tuotoksia. Toisin sanoen tekijänoikeus suojaa vain teoksen sellaisia osia, 
+jotka on tuottanut ihminen, ei koko teosta. 
+
+Keskustelu jatkuu
+Aihe kehittyy jatkuvasti ja uusia tehokkaita tekoälytyökaluja tulee markkinoille 
+ennennäkemättömällä vauhdilla. Ohjeistustamme pitää jatkuvasti päivittää ja voit 
+osallistua keskusteluun. Ota rohkeasti yhteyttä sivun lopussa mainittuihin henkilöihin.
+
+Lisälukemista
+Aalto-yliopiston tietotekniikkapalvelut antavat teknistä tukea tekoälyn 
+käyttöön: https://www.aalto.fi/fi/palvelut/tuotteistettu-tekoaly-ai-ja-openai-palvelut.
+
+Aalto-yliopisto on myös luonut ohjeistuksen tekoälyn käytöstä opetuksessa ja oppimisessa.
+
+Tekijyyden ja tilivelvollisuuden osalta lähestymistapamme on linjassa merkittävien kustantajien kanssa. Esimerkiksi Nature, Science ja Elsevier ovat tehneet linjauksensa tästä aiheesta.
+
+Hyvä tieteellinen käytäntö generatiivisia tekoälyteknologioita käytettäessä on vain yksi osa laajempaa keskustelua tekoälyn etiikasta. Aiheesta saa kattavia yleiskuvia UNESCO:n suosituksesta tekoälyn etiikasta: Recommendation on the Ethics of Artificial Intelligence sekä OECD:n tekoälyperiaatteista: OECD AI Principles. Euroopan unioni ja Euroopan parlamentti ovat parhaillaan luomassa sääntelyä tekoälyn käytöstä, ja ne tarjoavat myös johdatuksen yleiskäyttöiseen tekoälyyn (general purpose AI).
