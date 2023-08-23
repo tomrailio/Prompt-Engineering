@@ -83,8 +83,8 @@ koulutukseen tai siirtyä kolmansille osapuolille (esim. ChatGPT:n muille käytt
 tietämättäsi. Tällöin sinun on mahdotonta jäljittää, minne julkaisematon tekstisi tai 
 datasi on mennyt ja miten niitä tullaan uudelleenkäyttämään.
 
-JOS KÄYTÄT CHATGPT:N KIRJOITTAMAA KOODIA, ET VOI TARKSITAA CHATGPT:N KÄYTTÄMIEN KOODINPÄTKIEN
-LISENSSEJÄ. !!!
+JOS KÄYTÄT CHATGPT:N KIRJOITTAMAA KOODIA, ET VOI TARKISTAA CHATGPT:N KÄYTTÄMIEN KOODINPÄTKIEN
+LISENSSEJÄ !!!
 
 Lisenssiongelmien lisäksi hyvä idea on julkaista koodisi avoimen lähdekoodin 
 arkistossa, jotta kuka tahansa voi tarkistaa sen oikeellisuuden.
