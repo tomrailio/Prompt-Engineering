@@ -3,8 +3,23 @@ https://www.aalto.fi/en/services/responsible-use-of-artificial-intelligence-in-t
 
 Responsible use of Artificial Intelligence in the research process.
 
-This page gives Aalto University's guidance on what is considered ethically appropriate usage of artificial intelligence (AI) tools when conducting research. Our emphasis here is not on the outcomes of research as such, but instead the reseach process itself, along the lines of research integrity and responsible conduct of research: reproducibility; bearing responsibility on the correctness of the results presented; respecting the authorship of others; and data protection. How to interpret these concepts now that generative AI tools can generate content indistinguishable from human-generated content?
-Artificial intelligence (AI) based technologies, especially general purpose AI tools built upon large language models such as ChatGPT and text-to-image DALL-E, have quickly gained popularity, and Aalto University also provides help in their usage. They are able to generate text and artwork which are hard to distinguish from human-generated ones. While we encourage their usage, an obvious question arises: if they are used in research work, are there any issues with research integrity and responsible conduct of research? Can we find guidance on appropriate usage of AI tools when conducting research? 
+This page gives Aalto University's guidance on what is considered ethically appropriate 
+usage of artificial intelligence (AI) tools when conducting research. Our emphasis here 
+is not on the outcomes of research as such, but instead the reseach process itself, along 
+the lines of research integrity and responsible conduct of research: reproducibility; bearing 
+responsibility on the correctness of the results presented; respecting the authorship of others; 
+and data protection. 
+
+How to interpret these concepts now that generative AI tools can generate 
+content indistinguishable from human-generated content?
+
+Artificial intelligence (AI) based technologies, especially general purpose AI tools built upon 
+large language models such as ChatGPT and text-to-image DALL-E, have quickly gained popularity, 
+and Aalto University also provides help in their usage. They are able to generate text and 
+artwork which are hard to distinguish from human-generated ones. While we encourage their usage, 
+an obvious question arises: if they are used in research work, are there any issues with research 
+integrity and responsible conduct of research? Can we find guidance on appropriate usage of AI tools 
+when conducting research? 
 
 Literally speaking, the range of "AI tools" may vary from a spell-checker to the full functionality of GPT-type tools, but here we refer to generative AI, technologies based on large language models which able to generate human-imitating text, code or artwork. 
 
