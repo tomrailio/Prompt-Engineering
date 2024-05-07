@@ -1,7 +1,8 @@
 
 DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines
 Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan, Saiful Haq, 
-Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts
+Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts.
+
 The ML community is rapidly exploring techniques for prompting language models (LMs) and for stacking them 
 into pipelines that solve complex tasks. Unfortunately, existing LM pipelines are typically implemented using 
 hard-coded "prompt templates", i.e. lengthy strings discovered via trial and error. Toward a more systematic 
