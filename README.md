@@ -8,3 +8,5 @@ The good scientific practice and the use of AI in Aalto File updated on 4th of S
 
 To be continued ...
 
+https://www.aixploria.com/en/ultimate-list-ai/
+
