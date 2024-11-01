@@ -10,3 +10,8 @@ To be continued ...
 
 https://www.aixploria.com/en/ultimate-list-ai/
 
+How to write a better prompt?
+
+I need some code, so could you please act as a prompt engineer for me?
+Please review the following prompt: "give code to ...".
+Then, optimize this prompt to make it clearer, and ask me any questions before proceeding.
