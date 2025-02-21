@@ -1,5 +1,7 @@
 // https://www.deepseek.com/
 
+// Test also https://mistral.ai/news/mistral-saba?utm_source=tldrai
+
 A Chinese lab has unveiled what appears to be one of the first “reasoning” AI models to rival OpenAI’s o1.
 
 DeepSeek, an AI research company funded by quantitative traders, released recently a preview of DeepSeek-R1, 
