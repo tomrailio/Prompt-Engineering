@@ -1,0 +1,24 @@
+N8N BASED "FLOWPROGRAMMING"
+
+These days one might want to ask LLM how a system of AI agents could help me automate my work?
+
+The core idea is to build AI agents that replicate you in repetitive, manual tasks—dramatically improving productivity.
+When the use case is simple and scalable, this can be a powerful solution. These systems function similarly to 
+Simulink or Unreal Blueprints, but for workflows—using APIs, HTTP GET/POST requests, and JSON data formats.
+A tool like Perplexium (if available as a node) may be useful in certain specialized tasks.
+
+Three key components of an agent system:
+
+I.) LLM – for reasoning and decision-making
+
+II.) Memory – to retain and use context over time
+
+III.) Tools – to take action (e.g., APIs, databases, email, etc.)
+
+Bottom line: It saves time and money. However, the overall Use Case should be
+rather small in order to avoid debugging disasters (hell).
+
+Check out the below opinions as well:
+Stop Building AI Agents - Here’s what you should build instead.
+By Hugo Bowne-Anderson
+https://decodingml.substack.com/p/stop-building-ai-agents?utm_source=tldrdata
