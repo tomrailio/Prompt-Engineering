@@ -1,7 +1,7 @@
 // https://www.deepseek.com/
 
 // Test also https://mistral.ai/news/mistral-saba?utm_source=tldrai
-
+/*
 A Chinese lab has unveiled what appears to be one of the first “reasoning” AI models to rival OpenAI’s o1.
 
 DeepSeek, an AI research company funded by quantitative traders, released recently a preview of DeepSeek-R1, 
@@ -13,6 +13,7 @@ a question or query. This helps them avoid some of the pitfalls that normally tr
 Similar to o1, DeepSeek-R1 reasons through tasks, planning ahead, and performing a series of actions that 
 help the model arrive at an answer. This can take a while. Like o1, depending on the complexity of the question, 
 DeepSeek-R1 might “think” for TENS of seconds before answering.
+*/
 
 
 <!DOCTYPE html>
